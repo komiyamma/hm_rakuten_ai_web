@@ -1,0 +1,6 @@
+G:\repogitory\hm_rakuten_ai_web\src\HmRakutenAIWeb\bin\Release\HmRakutenAIWeb.dll
+G:\repogitory\hm_rakuten_ai_web\src\HmRakutenAIWeb\bin\Release\HmRakutenAIWeb.pdb
+G:\repogitory\hm_rakuten_ai_web\src\HmRakutenAIWeb\obj\Release\HmRakutenAIWeb.csproj.AssemblyReference.cache
+G:\repogitory\hm_rakuten_ai_web\src\HmRakutenAIWeb\obj\Release\HmRakutenAIWeb.csproj.CoreCompileInputs.cache
+G:\repogitory\hm_rakuten_ai_web\src\HmRakutenAIWeb\obj\Release\HmRakutenAIWeb.dll
+G:\repogitory\hm_rakuten_ai_web\src\HmRakutenAIWeb\obj\Release\HmRakutenAIWeb.pdb

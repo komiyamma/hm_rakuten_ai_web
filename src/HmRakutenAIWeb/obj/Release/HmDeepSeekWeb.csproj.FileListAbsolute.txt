@@ -1,0 +1,12 @@
+C:\Users\master\source\repos\HmDeepSeekWeb\HmDeepSeekWeb\bin\Release\HmDeepSeekWeb.dll
+C:\Users\master\source\repos\HmDeepSeekWeb\HmDeepSeekWeb\bin\Release\HmDeepSeekWeb.pdb
+C:\Users\master\source\repos\HmDeepSeekWeb\HmDeepSeekWeb\obj\Release\HmDeepSeekWeb.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\HmDeepSeekWeb\HmDeepSeekWeb\obj\Release\HmDeepSeekWeb.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\HmDeepSeekWeb\HmDeepSeekWeb\obj\Release\HmDeepSeekWeb.dll
+C:\Users\master\source\repos\HmDeepSeekWeb\HmDeepSeekWeb\obj\Release\HmDeepSeekWeb.pdb
+G:\repogitory\hm_deepseek_web\src\HmDeepSeekWeb\bin\Release\HmDeepSeekWeb.dll
+G:\repogitory\hm_deepseek_web\src\HmDeepSeekWeb\bin\Release\HmDeepSeekWeb.pdb
+G:\repogitory\hm_deepseek_web\src\HmDeepSeekWeb\obj\Release\HmDeepSeekWeb.csproj.AssemblyReference.cache
+G:\repogitory\hm_deepseek_web\src\HmDeepSeekWeb\obj\Release\HmDeepSeekWeb.csproj.CoreCompileInputs.cache
+G:\repogitory\hm_deepseek_web\src\HmDeepSeekWeb\obj\Release\HmDeepSeekWeb.dll
+G:\repogitory\hm_deepseek_web\src\HmDeepSeekWeb\obj\Release\HmDeepSeekWeb.pdb
