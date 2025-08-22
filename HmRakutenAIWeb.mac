@@ -27,12 +27,19 @@ const isOneAtTimeAIRenderPane = 1; // AI関連のレンダリング枠は(他の
 
 // --------------------------------------------------
 
-const renderPaneTargetName = "HmDeepSeekWeb";
+const renderPaneTargetName = "HmRakutenAIWeb";
     
 const currentMacroDirectory = currentmacrodirectory();
 
 const script = hidemaru.loadTextFile(currentMacroDirectory + "\\HmConvAIWeb.js");
 eval(script);
+
+function onPrevKeySendDecorator() {
+    try {
+        browserpanecommand({target:"_each", focusinputfield:'textarea[placeholder="質問してみる"]'});
+    } catch(e) {
+    }
+}
 
 doMain();
 
