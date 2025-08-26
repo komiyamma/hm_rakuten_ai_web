@@ -1,6 +1,6 @@
 # HmRakutenAIWeb
 
-![HmRakutenAIWeb v1.1.1](https://img.shields.io/badge/HmRakutenAIWeb-v1.1.1-6479ff.svg)
+![HmRakutenAIWeb latest release](https://img.shields.io/github/v/release/komiyamma/hm_rakuten_ai_web)
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 ![Hidemaru 9.50β4](https://img.shields.io/badge/Hidemaru-v9.50β4-6479ff.svg)
 

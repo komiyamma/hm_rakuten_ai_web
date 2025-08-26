@@ -6,7 +6,7 @@
  */
 
 
-hidemaruversion "9.39.99";
+hidemaruversion "9.50.04";
 
 setcompatiblemode 0x08000000;
 
